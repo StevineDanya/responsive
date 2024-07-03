@@ -1,8 +1,8 @@
 
-@import url(./style/header/header.css);
-@import url(./style/main/main.css);
-@import url(./style/footer/footer.css);
-@import url(./style/responsive.css);
+@import url(./header/header.css);
+@import url(./main/main.css);
+@import url(./footer/footer.css);
+@import url(./responsive.css);
 :root{
 
     
